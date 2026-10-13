@@ -11,6 +11,6 @@ data/raw/
 monitoring/*.json
 monitoring/*.html
 gate_report.md
-.envdata/raw/
+.env
 data/processed/
 models/*.cbm
